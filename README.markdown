@@ -12,6 +12,7 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+  CREATE DATABASE crowdreview
 
 * Database initialization
 
